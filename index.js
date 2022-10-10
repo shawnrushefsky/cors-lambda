@@ -4,7 +4,7 @@ const {
   ALLOW_METHODS = "OPTIONS,GET",
 } = process.env;
 
-exports.handler = (event) => {
+exports.handler = async (event) => {
   return {
     statusCode: 200,
     body: "OK",

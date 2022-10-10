@@ -1,0 +1,23 @@
+{
+  "name": "cors-lambda",
+  "version": "1.0.0",
+  "description": "A lambda to handle cors requests for AWS API Gateway",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shawnrushefsky/cors-lambda.git"
+  },
+  "keywords": [
+    "lambda",
+    "cors"
+  ],
+  "author": "Shawn Rushefsky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shawnrushefsky/cors-lambda/issues"
+  },
+  "homepage": "https://github.com/shawnrushefsky/cors-lambda#readme"
+}
